@@ -1,0 +1,3 @@
+../Core/Src/HCSR04.c:19:6:HCSR04_delay	16	static
+../Core/Src/HCSR04.c:24:6:HCSR04_Read	8	static
+../Core/Src/HCSR04.c:33:6:HAL_TIM_IC_CaptureCallback	16	static

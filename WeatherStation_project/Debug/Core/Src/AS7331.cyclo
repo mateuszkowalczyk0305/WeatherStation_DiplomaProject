@@ -1,0 +1,3 @@
+../Core/Src/AS7331.cpp:11:1:AS7331::AS7331(I2C_HandleTypeDef*, uint16_t)	1
+../Core/Src/AS7331.cpp:15:6:bool AS7331::init()	7
+../Core/Src/AS7331.cpp:62:6:bool AS7331::readMeasurements()	4
