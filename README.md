@@ -7,8 +7,8 @@ https://drive.google.com/file/d/1JWYxQYhTVjvhDOO2iqMLUJ6K69_TXn3Y/view?usp=shari
 
 ## Info:
 - All code is in that repository,
-- My code in HAL is in 'WeatherStation_project\Core'
-- All informations/ Figures and descriptions in Polish in thesis.
+- You can see code there in 'WeatherStation_project\Core'
+- All informations in Polish are in thesis.
 
 
 
